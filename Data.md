@@ -9,8 +9,8 @@ The dataframe/csv file will contain following columns:
 1)Borough	
 2)Neighborhood	
 3)Latitude	
-4)Longitude
-We will analyze each and every neighborhood to slelect the best place for opening the restaurent and for gaining maximum success. 
+4)Longitude.
+ We will analyze each and every neighborhood to slelect the best place for opening the restaurent and for gaining maximum success. 
 ```python
 
 ```
